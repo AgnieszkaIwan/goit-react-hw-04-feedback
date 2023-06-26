@@ -1,0 +1,38 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+}
+
+p {
+  margin: 5px;
+}
+
+.notification {
+  color: red;
+  font-weight: bold;
+}
+
+.statistics {
+  margin-top: 20px;
+  font-size: 20px;
+  display: flex;
+  gap: 20px;
+}

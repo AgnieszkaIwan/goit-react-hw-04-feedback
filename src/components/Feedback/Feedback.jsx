@@ -60,7 +60,6 @@ export const Feedback = () => {
 
   const feedbackOptions = Object.keys(state);
   const totalFeedback = countTotalFeedback();
-  // const positivePercentage = countPositiveFeedbackPercentage();
 
   return (
     <div className={styles.container}>
